@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local baseline snapshot
+baseline.json
+
+# Environment & credentials
+.env
+venv/
+.venv/
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
